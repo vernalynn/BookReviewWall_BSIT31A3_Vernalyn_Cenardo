@@ -1,0 +1,6 @@
+# Ignore Visual Studio temporary files and folders
+.vs/
+*.user
+*.suo
+bin/
+obj/
