@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace BookReviewWall.Models
+namespace BookReviewWall_BSIT31A3_Vernalyn_Cenardo.Models
 {
     public class AddBookViewModel
     {
