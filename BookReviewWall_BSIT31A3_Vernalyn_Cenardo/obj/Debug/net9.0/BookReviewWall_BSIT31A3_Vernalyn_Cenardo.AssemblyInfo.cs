@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.AspNetCore.Identity.UI.UIFrameworkAttribute("Bootstrap5")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookReviewWall_BSIT31A3_Vernalyn_Cenardo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3303d5037d35b0bcf34ee7cf476298607d81f0ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookReviewWall_BSIT31A3_Vernalyn_Cenardo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookReviewWall_BSIT31A3_Vernalyn_Cenardo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

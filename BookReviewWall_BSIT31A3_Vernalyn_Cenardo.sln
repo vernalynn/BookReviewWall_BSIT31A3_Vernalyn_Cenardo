@@ -5,6 +5,10 @@ VisualStudioVersion = 17.14.36414.22 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewWall_BSIT31A3_Vernalyn_Cenardo", "BookReviewWall_BSIT31A3_Vernalyn_Cenardo\BookReviewWall_BSIT31A3_Vernalyn_Cenardo.csproj", "{C2256691-9716-46CC-AC60-3AA9C35F4F05}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewWall.Infrastructure", "BookReviewWall.Infrastructure\BookReviewWall.Infrastructure.csproj", "{3D2A1C21-1214-4EC8-83D9-B6FC0E15DF94}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookReviewWall.Services", "BookReviewWall.Services\BookReviewWall.Services.csproj", "{2D1760DD-E0A1-49D9-B4B3-F4AB0578A487}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{C2256691-9716-46CC-AC60-3AA9C35F4F05}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C2256691-9716-46CC-AC60-3AA9C35F4F05}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C2256691-9716-46CC-AC60-3AA9C35F4F05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D2A1C21-1214-4EC8-83D9-B6FC0E15DF94}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D2A1C21-1214-4EC8-83D9-B6FC0E15DF94}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D2A1C21-1214-4EC8-83D9-B6FC0E15DF94}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D2A1C21-1214-4EC8-83D9-B6FC0E15DF94}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2D1760DD-E0A1-49D9-B4B3-F4AB0578A487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D1760DD-E0A1-49D9-B4B3-F4AB0578A487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2D1760DD-E0A1-49D9-B4B3-F4AB0578A487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2D1760DD-E0A1-49D9-B4B3-F4AB0578A487}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

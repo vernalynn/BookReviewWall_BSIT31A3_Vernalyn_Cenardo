@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BookReviewWall.Services")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56d0fe68abde638ebbc87ae8a8c9d57237fa5830")]
 [assembly: System.Reflection.AssemblyProductAttribute("BookReviewWall.Services")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BookReviewWall.Services")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
